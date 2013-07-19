@@ -1,0 +1,12 @@
+body {
+  margin: 2em;
+}
+ul {
+  margin: 0 auto;
+  width: 15%;
+  list-style: none;
+}
+li {
+  line-height: 2em;
+  text-align: center;
+}
